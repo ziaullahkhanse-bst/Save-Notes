@@ -1,7 +1,6 @@
-# Ask for note
+
 note = input("Enter a note: ")
 
-# Ask for filename
 filename = input("Enter a file name: ")
 
 # Open file for writing
