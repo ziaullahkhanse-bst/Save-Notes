@@ -1,9 +1,7 @@
-
 note = input("Enter a note: ")
 
 filename = input("Enter a file name: ")
 
-# Open file for writing
 file = open(filename, "w")
 
 # Write note to file
